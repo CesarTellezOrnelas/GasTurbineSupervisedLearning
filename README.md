@@ -1,7 +1,7 @@
 # GasTurbineSupervisedLearning
 
 ### Authors 
-Cesar Tellez Ornelas
+Cesar Tellez Ornelas,
 Enrique Neyra 
 ### [Project Presentation](https://docs.google.com/presentation/d/1yAoxNsBvGje_Jlp1XE58GYbxJ3uY6sFZ4kGU9iDraP8/edit#slide=id.g2d0512cdc84_0_20)
 
